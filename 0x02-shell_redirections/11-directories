@@ -1,0 +1,11 @@
+#!/bin/bash
+$ tree sample
+sample
+├── test1
+│   └── test5
+├── test2
+├── test3
+├── test4
+└── test_file1.docx
+
+5 directories, 1 file
