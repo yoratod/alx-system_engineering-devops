@@ -1,2 +1,2 @@
 #!/bin/bash
-lacta -1
+tail -n 1 iacta >> iacta
